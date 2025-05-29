@@ -22,8 +22,8 @@ I love crafting interactive, user-friendly interfaces and pixel-perfect layouts.
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jihad-sayed&show_icons=true&theme=radical" alt="Jihad's stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihad-sayed&layout=compact&theme=radical" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gehadsayed1&show_icons=true&theme=radical" alt="Jihad's stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gehadsayed1&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
 ---
