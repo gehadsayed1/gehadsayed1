@@ -31,7 +31,7 @@ I love crafting interactive, user-friendly interfaces and pixel-perfect layouts.
 ### 📫 Reach Me
 - 💌 Email: [gehadsaed199@gmail.com]
 - 💼 LinkedIn: [https://www.linkedin.com/in/jihad-sayed-91055535b]
-- 🌍 Portfolio: [https://tiny-axolotl-d189c7.netlify.app/]
+- 🌍 Portfolio: [https://frontend-portfolio-ublf.vercel.app/]
 
 ---
 
